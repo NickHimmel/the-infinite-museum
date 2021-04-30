@@ -1,3 +1,5 @@
+@import './styles/Typography.css';
+
 * {
     box-sizing: border-box;
 }
