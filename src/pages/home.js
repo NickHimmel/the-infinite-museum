@@ -8,9 +8,6 @@ function Home() {
             <h2>Find Your Favorite Artworks</h2>
             <h2>Curate Exhibitions And Share</h2>
             <h1>The Infinite Museum</h1>
-            <ul>
-                <li>Hello</li>
-            </ul>
         </div>
     )
 };
