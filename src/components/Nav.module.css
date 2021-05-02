@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    max-width: 1200px;
+    padding: 0 25px;
+}
+
+.lightGrey {
+    color: #8b8e80;
+}
+
+.left {
+    display: flex;
+    align-items: center;
+    flex: 1;
+}
+
+.right {
+    display: flex;
+}
+
+.link {
+    cursor: pointer;
+    display: block;
+    margin-left: 25px;
+}
+
+.link:hover {
+    border-bottom: 3px solid #303129;
+    margin-bottom: -3px;
+}

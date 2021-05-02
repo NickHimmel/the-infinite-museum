@@ -3,6 +3,7 @@ h1 {
     font-weight: 300;
     font-size: 75px;
     letter-spacing: -1.5px;
+    margin: 0;
 }
 
 h2 {
@@ -10,6 +11,7 @@ h2 {
     font-weight: 300;
     font-size: 47px;
     letter-spacing: -0.5px;
+    margin: 0;
 }
 
 h3 {
@@ -17,6 +19,7 @@ h3 {
     font-weight: 400;
     font-size: 37px;
     letter-spacing: 0px;
+    margin: 0;
 }
 
 h4 {
@@ -24,4 +27,5 @@ h4 {
     font-weight: 400;
     font-size: 26px;
     letter-spacing: 0.25px;
+    margin: 0;
 }
