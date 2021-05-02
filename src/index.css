@@ -1,7 +1,12 @@
-@import './styles/Typography.css';
+@import './styles/typography.css';
 
 * {
     box-sizing: border-box;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
 }
 
 ul {
