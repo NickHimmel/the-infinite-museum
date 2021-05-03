@@ -1,14 +1,15 @@
+@import '../styles/_colors.scss';
+@import '../styles/_mixins.scss';
+
 .container {
+    @include container;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: auto;
-    max-width: 1200px;
-    padding: 0 25px;
 }
 
-.lightGrey {
-    color: #8b8e80;
+.grey {
+    color: $light-grey;
 }
 
 .left {
