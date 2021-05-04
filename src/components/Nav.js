@@ -8,7 +8,7 @@ function Nav() {
                 <a href="/">
                     <h3>I<span className={styles.grey}>M</span></h3>
                 </a>
-                <a href="https://www.metmuseum.org/" target="_blank" className={styles.link}>
+                <a href="https://www.metmuseum.org/" target="_blank" rel="noreferrer" className={styles.link}>
                     <h4>The Met Musuem</h4>
                 </a>
             </div>
