@@ -2,7 +2,7 @@
 @import '../styles/_mixins.scss';
 
 .container {
-    @include container;
+    @include container-lg;
     display: flex;
     justify-content: center;
     align-items: center;
